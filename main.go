@@ -32,8 +32,8 @@ func main() {
 	}
 
 	// Enter Zerodha username and password
-	fm.Input("user_id", "your_username_here")
-	fm.Input("password", "your_password_here")
+	fm.Input("user_id", "rahulchako7@gmail.com")
+	fm.Input("password", "Rahulchacko@1996")
 
 	// Submit login form
 	err = fm.Submit()
